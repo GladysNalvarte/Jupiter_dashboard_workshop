@@ -3,13 +3,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-#  - python==3.4.1
-#  - notebook
-#  - jupyter_dashboards
-#  - jupyter_dashboards_bundlers
-#  - matplotlib
+  - python==3.4.3
   - folium
-#  - ipywidgets=7
-#  - qgrid
-#  - plotly
-#  - beakerx
+  - notebook
